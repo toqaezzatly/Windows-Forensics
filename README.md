@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 **Check out the interactive guide here:**  
-[**👉 View the Live Presentation 👈**](https://github.com/toqaezzatly/Windows-Forensics)
+[**👉 View the Live Presentation 👈**](https://toqaezzatly.github.io/Windows-Forensics/)
 
 ---
 
