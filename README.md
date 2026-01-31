@@ -5,7 +5,7 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Forensics](https://img.shields.io/badge/Focus-Digital%20Forensics-red.svg)
-![UI](https://img.shields.io/badge/UI-Interactive%20Dashboard-cyan.svg)
+
 
 ---
 
