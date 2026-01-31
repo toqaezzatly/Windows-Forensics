@@ -54,5 +54,4 @@ The content follows the **SANS FOR500: Windows Forensic Analysis** curriculum, f
 
 ---
 *Disclaimer: This tool is intended for educational and professional forensic reference only.*
-```
 
